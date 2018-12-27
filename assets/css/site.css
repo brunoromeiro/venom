@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+}
+
+.bg { 
+  /* The image used */
+    background-image: url('../img/001.jpg');
+    background-size: cover;
+
+  /* Full height */
+    height: 100%; 
+
+  /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    color: #fff;
+    left: 50%;
+    margin-right: -50%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%)
+}
