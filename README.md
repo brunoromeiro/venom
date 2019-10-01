@@ -7,6 +7,10 @@
  - Exibir seleção de observações no form de relatórios - 03 pts
  - Exibir comentários na consulta geral de reservas - 05 pts
 
+|UI|A|S|
+-----
+|D|F|F|
+|df|f|g|
 
 ## Wizard produtos
 ### Grupo de Produtos
